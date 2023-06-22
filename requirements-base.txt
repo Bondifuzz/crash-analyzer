@@ -1,0 +1,9 @@
+mq-transport[sqs]@git+https://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@github.com/Bondifuzz/mq-transport.git@0.1.0
+aioboto3==9.0.0
+aiofiles==0.7.0
+aiohttp==3.7.4
+aioarangodb==0.1.2
+coloredlogs==15.0
+PyYAML==5.4.1
+prometheus-client==0.11.0
+pydantic[email]==1.8.2

@@ -1,0 +1,10 @@
+users:
+  - username: crash-analyzer
+    password: crash-analyzer
+databases:
+  - name: CrashAnalyzer
+    collections: []
+grants:
+  - username: crash-analyzer
+    database: CrashAnalyzer
+    permissions: rw

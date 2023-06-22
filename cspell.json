@@ -1,0 +1,44 @@
+// cSpell Settings
+{
+    // Version of the setting file.  Always 0.2
+    "version": "0.2",
+
+    // language - current active spelling language
+    "language": "en",
+
+    // words - list of words to be always considered correct
+    "words": [
+      // En
+      "fuzzer",
+      "aclose",
+      "strs",
+      "pydantic",
+      "dotenv",
+      "arango",
+      "arangodb",
+      "aioarangodb",
+      "aiohttp",
+      "aioboto",
+      "botocore",
+      "mqtransport",
+      "uvloop",
+      "libfuzzer",
+      "showmap",
+      "outcoming",
+      "atheris",
+      "sharpfuzz",
+      "tamasfe",
+      "pytest",
+      "bierner",
+      "yzhang",
+      "gruntfuggly",
+      "donjayamanne",
+      "githistory",
+      "fuzzers",
+      "pylance"
+    ],
+    // flagWords - list of words to be always considered incorrect
+    // This is useful for offensive words and common spelling errors.
+    // For example "hte" should be "the"
+    "flagWords": []
+  }
