@@ -1,4 +1,4 @@
-mq-transport[sqs]@git+https://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@github.com/Bondifuzz/mq-transport.git@0.1.0
+mq-transport[sqs]@git+https://github.com/Bondifuzz/mq-transport.git@0.1.0
 aioboto3==9.0.0
 aiofiles==0.7.0
 aiohttp==3.7.4
